@@ -1,0 +1,2 @@
+# ativador
+win e ofice
